@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,city,country,signup_date
+1,Aarav,Sharma,aarav.sharma@example.com,9876543210,Bengaluru,India,2024-01-15
+2,priya,NAIR,priya.nair@example.com,+91 98765 43211,Chennai,India,2024-02-03
+3,Rahul,Verma,rahul.verma@example.com,098765 43212,Delhi,India,15/03/2024
+4,Sneha,Reddy,sneha.reddy@example.com,N/A,Hyderabad,India,2024-03-22
+5,Aarav,Sharma,AARAV.SHARMA@EXAMPLE.COM,9876543210,Bengaluru,India,2024-01-15
+6,Karthik,Iyer,,9876543214,Chennai,India,2024-04-10
+7,Meera,,meera.k@example.com,9876543215,Mumbai,India,2024-04-18
+8,Vikram,Singh,vikram.singh@example,9876543216,Jaipur,India,2024-05-01
+9,Ananya,Das,ananya.das@example.com,12345,Kolkata,India,2024-05-09
+10,Rohan,Gupta,rohan.gupta@example.com,9876543218,Pune,India,not a date
+11,  Divya , Menon ,divya.menon@example.com ,9876543219,  kochi,india,2024-06-02
+12,Priya,Nair,priya.nair@example.com,9876543211,Chennai,,2024-02-03
+13,Arjun,Patel,arjun.patel@example.com,9876543220,Ahmedabad,India,2024-06-15
+14,Lakshmi,Rao,lakshmi.rao@example.com,9876543221,Anantapur,India,2024-07-01
+15,Sanjay,Kumar,sanjay.kumar@example.com,9876543222,Vijayawada,India,2031-01-01
+16,Neha,Joshi,neha.joshi@example.com,9876543223,Nagpur,India,2024-07-19
+17,Aarav,Sharma,aarav.sharma@example.com,9876543210,Bengaluru,India,2024-01-15
+18,Kiran,Babu,kiran.babu@example.com,9876543224,Bengaluru,India,2024-08-05
+19,Pooja,Mehta,pooja.mehta@example.com,,Surat,India,2024-08-21
+20,Imran,Khan,imran.khan@example.com,9876543226,Hyderabad,India,2024-09-09
